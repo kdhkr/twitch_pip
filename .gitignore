@@ -2,3 +2,4 @@ node_modules/
 dist/
 twitch.exe
 electron-builder.env
+config.json
